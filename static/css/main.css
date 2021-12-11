@@ -1,26 +1,27 @@
 body {
-    margin: 0;
-    font-family: 'Hack', sans-serif
+  margin: 0;
+  font-family: "Hack", sans-serif;
 }
 
 .content {
-    margin: 2rem 10rem;
+  margin: 2rem;
 }
 
- th, td {
-     border: 1px solid; 
- }
+th,
+td {
+  border: 1px solid;
+}
 
- .button{
-     border: none;
-     outline: none;
-     width: 6rem;
-     height: 1.5rem;
-     font-weight: bold;
-     /*box-shadow: 5px 6px 5px;*/
-     background-color: cornflowerblue;
- }
+.button {
+  border: none;
+  outline: none;
+  width: 6rem;
+  height: 1.5rem;
+  font-weight: bold;
+  /*box-shadow: 5px 6px 5px;*/
+  background-color: cornflowerblue;
+}
 
- .button:hover {
-     box-shadow: 5px 6px 5px;
- }
+.button:hover {
+  box-shadow: 5px 6px 5px;
+}
